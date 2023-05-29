@@ -4,7 +4,6 @@
 
 
 - 🔭 I’m currently working on Viasoft Korp 
-- 🌱 I’m currently learning NestJs and ReactJs
 
  <div>
   <a href="https://github.com/RafaelKC">
@@ -14,8 +13,6 @@
     <img align="center" alt="RafaelKC-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/RafaelKC/RafaelKC/main/SVG/typescript-original.svg">
     <img align="center" alt="RafaelKC-Angular" height="30" width="40" src="https://raw.githubusercontent.com/RafaelKC/RafaelKC/main/SVG/angularjs-plain.svg">
     <img align="center" alt="RafaelKC-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/RafaelKC/RafaelKC/main/SVG/csharp-original.svg">
-    <img align="center" alt="RafaelKC-Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
-   <img align="center" alt="RafaelKC-Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
 </div> 
 
 ##
