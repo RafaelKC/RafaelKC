@@ -3,7 +3,7 @@
 ### Hello 👋
 
 
-- 🔭 I’m currently working on Viasoft Korp 
+- 🔭 I’m currently working on Gestran 
 
  <div>
   <div style="display: inline_block"><br>
