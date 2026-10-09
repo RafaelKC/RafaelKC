@@ -67,8 +67,6 @@
     </td>
     <td width="45%" align="center" valign="center">
       <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,azure,postgres,docker,rust&perline=8" alt="Skills" />
-      <br><br>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RafaelKC&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="100%" />
     </td>
   </tr>
 </table>
